@@ -24,4 +24,4 @@ A beginner-level calculator built using Python.
 
 ## About
 
-This project was created as part of my journey learning Python programming. It helped me practise variables, conditional statements, loops, and exception handling.
+This project was created as part of my journey learning Python programming. It helped me practice variables, conditional statements, loops, and exception handling.
